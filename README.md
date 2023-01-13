@@ -1,3 +1,3 @@
 # READ ME
 
-This repository contains my academic awards and certifications.
+This repository contains my service/volunteering awards and certifications.
